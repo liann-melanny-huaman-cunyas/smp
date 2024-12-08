@@ -1,0 +1,26 @@
+{
+  "public/img/fondo.png": {
+    "file": "assets/fondo-CkS77JL5.png",
+    "src": "public/img/fondo.png"
+  },
+  "public/img/portada.jpg": {
+    "file": "assets/portada-Dw464Tv-.jpg",
+    "src": "public/img/portada.jpg"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-DNAaAbUK.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/custom.css": {
+    "file": "assets/custom-BNPsctvo.css",
+    "src": "resources/css/custom.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Xaw6OIO1.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
